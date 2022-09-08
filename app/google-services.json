@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "860203434531",
+    "firebase_url": "https://testgps-cf6ed-default-rtdb.firebaseio.com",
+    "project_id": "testgps-cf6ed",
+    "storage_bucket": "testgps-cf6ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860203434531:android:0a9c3758b390afab1aa796",
+        "android_client_info": {
+          "package_name": "com.example.loginregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860203434531-jl2ruq8nujgpa8q2vt5mol2mb79grt4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDK1RrTnGv9jXzllb7PbX3Q81Q4EJc_ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860203434531-jl2ruq8nujgpa8q2vt5mol2mb79grt4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
